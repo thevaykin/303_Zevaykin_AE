@@ -1,0 +1,192 @@
+
+body{
+    font-family: system-ui;
+}
+
+h1{
+    font-size: 25px;
+    padding: 2px 0px 2px 0px;
+}
+h4{
+    font-size: 18px;
+    color: LightSlateGray;
+    margin: 5px 0px 15px 10px;
+    font-weight: lighter;
+}
+h4:hover{
+    color: black;
+    font-weight: normal;
+}
+input,
+a {
+    font-family: inherit;
+    background-color: rgb(199, 192, 228);
+    font-size: 14px;
+    color: black;
+    padding: 10px 15px 10px 15px;
+    text-decoration: none;
+    text-transform: uppercase;
+    margin: 5px 0px 0px 20px;
+    border-radius: 8px;
+    }
+
+.back_to_main{
+    margin: 1% 0% -1.5% 1%;
+}
+input:hover,
+a:hover {
+    color: rgb(199, 192, 228);
+    background-color: black;
+    font-weight: bolder;
+}
+
+input:active,
+a:active {
+    background-color: black;
+}
+.text_input{
+    font-family: inherit;
+    font-weight: lighter;
+    background-color:white;
+    font-size: 14px;
+    color: LightSlateGray;
+    text-transform: none;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+.text_input:hover{
+    background-color:rgb(199, 192, 228);
+    border: 1px solid black;
+    color: black;
+}
+li{
+    font-size: 14px;
+    font-weight: lighter;
+    color: rgb(155, 165, 175);
+    list-style-type: none;
+    padding: 0px 0px 0px 40px;
+}
+li:hover{
+    font-weight: normal;
+    color: black;
+}
+.refs{
+    background-color: rgba(194, 194, 212, 0.507);
+    margin:0 25% 0 25%;
+    width:50%;
+    border-radius: 10px;
+}
+
+select{
+    font-family: inherit;
+    font-size: 14px;
+    color: LightSlateGray;
+    padding: 5px 5px;
+    margin: 0px 0px 0px 15px;
+    text-decoration: none;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+select:hover{
+    background-color: rgb(199, 192, 228);
+    border: 1px solid black;
+}
+
+option{
+    background-color: whitesmoke;
+}
+
+legend{
+    font-family: inherit;
+    font-size: 18px;
+    font-weight: bolder;
+    color: LightSlateGray;
+    padding: 0px 2px 5px 2px;
+}
+hr{
+    margin: 10px 0;
+	padding: 0;
+	height: 1px;
+	border: none;
+	background: LightSlateGray;
+}
+.fieldset_class{
+    padding: 0px 2px 0px 15px;
+    border-radius: 5px;
+}
+.sendInfoNewMaster{
+    color: black;
+    margin: 2% 0% 0% 80%;
+    border-radius: 8px;
+    border: none;
+}
+
+.sendInfoNewMaster:hover{
+    color: rgb(199, 192, 228);
+    background-color: black;
+}
+form{
+    padding: 2% 5% 2% 5%;
+    margin: 0% 2% 0% 2%;
+}
+
+.newMtText{
+    font-size: 25px;
+    margin: 0% 0% 2% 0%;
+    text-transform: uppercase;
+    color:  black;
+}
+
+.date_birth{
+    background-color: white;
+    font-size: 14px;
+    color: LightSlateGray;
+    border: 1px solid #ccc;
+}
+.date_birth:hover{
+    background-color:rgb(199, 192, 228);
+    color: LightSlateGray;
+    font-weight: lighter;
+    border: 1px solid black;
+}
+
+.refs_main{
+    background-color: rgba(194, 194, 212, 0.507);
+    padding: 0.1% 0% 1.2% 1%;
+    border-radius: 8px;
+}
+
+.h1_main{
+    margin: 0.5% 0% 1.5% 1%;
+   
+}
+.hr_main{
+    margin: -2% 1% 1% 1%;
+}
+
+.option_st{
+    color: rgba(194, 194, 212, 0.507);
+    
+}
+
+.mark{
+    color: rgba(194, 194, 212, 0.507);
+    background-color: white;
+    color: LightSlateGray;
+    border: 1px solid #ccc;
+    text-transform: none;
+}
+
+.mark:hover{
+    background-color: rgb(199, 192, 228);
+    color: black;
+    font-weight: lighter;
+}
+
+.refsSes{
+    background-color: rgba(194, 208, 212, 0.51);
+    margin:0 15% 0 15%;
+    width:70%;
+    border-radius: 10px;
+}
